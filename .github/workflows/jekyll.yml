@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-16.04
     steps:
       - uses: actions/checkout@v2
-      - name: npm build
+      - name: build
         run: |
+          bundle install
           npm install
           npm run build
       - uses: helaili/jekyll-action@2.0.4
