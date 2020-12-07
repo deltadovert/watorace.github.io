@@ -10,11 +10,13 @@ layout: default
         sponsors</p>
     </div>
     <div class="flex flex-wrap -m-4 justify-center">
-      <a class="w-64 h-64 flex flex-wrap content-center" href="https://uwaterloo.ca/engineering-endowment-foundation/" style>
-        <img src="{{ site.baseurl }}/assets/images/weef_logo.png" />
+      <a class="w-64 h-64 flex flex-wrap justify-center content-center" href="https://uwaterloo.ca/engineering-endowment-foundation/" style>
+        <!-- w-full or h-full is a hack to prevent issues displaying the image on mobile. Set this based on image aspect ration (if image is wider set w-full, set h-full otherwise) -->
+        <img class="w-full" src="{{ site.baseurl }}/assets/images/weef_logo.png" />
       </a>
-      <a class="w-64 h-64 flex flex-wrap content-center" href="https://uwaterloo.ca/math-endowment-fund/">
-        <img src="{{ site.baseurl }}/assets/images/mef_logo.png" />
+      <a class="w-64 h-64 flex flex-wrap justify-center content-center" href="https://uwaterloo.ca/math-endowment-fund/">
+        <!-- w-full or h-full is a hack to prevent issues displaying the image on mobile. Set this based on image aspect ration (if image is wider set w-full, set h-full otherwise) -->
+        <img class="h-full" src="{{ site.baseurl }}/assets/images/mef_logo.png" />
       </a>
     </div>
   </div>
