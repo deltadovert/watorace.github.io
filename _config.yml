@@ -1,0 +1,63 @@
+title: Waterloo Autonomous Racing (WATORACE)
+description: Waterloo Autonomous Racing (WATORACE) is a student design team at the University of Waterloo.
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.babel.js
+  - LICENSE.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - README.md
+  - src
+  - tailwind.config.js
+
+teammembers:
+  - name: Christopher Nielsen
+    role: Faculty Advisor
+    image: christopher_nielsen.jpg
+  - name: Derek Rayside
+    role: Faculty Advisor
+    image: derek_rayside.jpg
+  - name: Chris Shum
+    role: Staff Advisor
+    image: chris_shum.jpg
+  - name: Doug Zister
+    role: Industry Advisor
+    image: doug_zister.jpg
+  - name: Rocky Liang
+    role: Industry Advisor
+    image: rocky_liang.jpg
+  - name: Rollen D'Souza
+    role: Electrical and Computer Engineering
+    role2: (PhD candidate)
+    image: rollen_d_souza.jpg
+  - name: Ben Zhang
+    role: Electrical and Computer Engineering
+    role2: (Master's student)
+    image: ben_zhang.jpg
+  - name: Benjamin Kurrek
+    role: Mechatronics Engineering
+    role2: (undergraduate student)
+    image: benjamin_kurrek.jpg
+  - name: Dmitry	Tsarapkine
+    role: Computer Science
+    role2: (undergraduate student)
+    image: missing_avatar.svg
+  - name: Kyle Anderson
+    role: Software Engineering
+    role2: (undergraduate student)
+    image: kyle_anderson.jpg
+  - name: Moiz Khan
+    role: Systems Design Engineering
+    role2: (undergraduate student)
+    image: moiz_khan.jpg
+  - name: Ryan Larkin
+    role: Computer Science
+    role2: (undergraduate student)
+    image: ryan_larkin.jpg
+  - name: Sinclair Hudson
+    role: Computer Science
+    role2: (undergraduate student)
+    image: sinclair_hudson.jpg
