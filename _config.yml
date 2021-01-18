@@ -65,3 +65,8 @@ teammembers:
     role: Computer Science
     role2: (undergraduate student)
     image: sinclair_hudson.jpg
+  - name: Andy Li 
+    role: Computer Engineering
+    role2: (undergraduate student)
+    image: andy_li.jpg
+
