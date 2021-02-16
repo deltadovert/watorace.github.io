@@ -37,6 +37,10 @@ teammembers:
     role: Electrical and Computer Engineering
     role2: (Master's student)
     image: ben_zhang.jpg
+  - name: Andy Li 
+    role: Computer Engineering
+    role2: (undergraduate student)
+    image: andy_li.jpg
   - name: Benjamin Kurrek
     role: Mechatronics Engineering
     role2: (undergraduate student)
